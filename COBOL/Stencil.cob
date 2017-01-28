@@ -4,7 +4,7 @@
       *DATE-WRITTEN. XXX 2015
       *DATE-COMPILED.
       *----------------------------------------------------------------*
-      *  PURPOSE: SAMPLE LAYOUT                                       *
+      *  PURPOSE: SAMPLE LAYOUT                                        *
       *                                                                *
       *                                                                *
       *                                                                *
