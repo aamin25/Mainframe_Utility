@@ -1,10 +1,10 @@
        IDENTIFICATION DIVISION.
        PROGRAM-ID.   STENCIL.
-      *AUTHOR.       AAMIN KHAN (R.A. TEAM) LIONBRIDGE.
+      *AUTHOR.       AAMIN KHAN.
       *DATE-WRITTEN. XXX 2015
       *DATE-COMPILED.
       *----------------------------------------------------------------*
-      *  PURPOSE: SAMPLE LAYOUT                                       *
+      *  PURPOSE: SAMPLE LAYOUT                                        *
       *                                                                *
       *                                                                *
       *                                                                *
